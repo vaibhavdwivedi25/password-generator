@@ -27,7 +27,7 @@ To run this project, you need a modern web browser that supports HTML5, CSS3, an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/vaibhavdwivedi25/password-generator.git
    ```
 2. Navigate to the project directory:
    ```bash
